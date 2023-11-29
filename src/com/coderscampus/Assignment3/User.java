@@ -1,14 +1,12 @@
 package com.coderscampus.Assignment3;
 
+// I created a simple User POJO with Getters and Setters
+
 public class User {
 	
-	//Setting User attributes:
-
 	private String username;
 	private String password;
 	private String name;
-
-	//Getters and Setters:
 	
 	public String getUsername() {
 		return username;
